@@ -1,0 +1,21 @@
+/* Light theme */
+.light {
+  --bg-color: #fff;
+  /*--main-color: #3D5B59; 
+    --second-color: #FCB5AC green*/
+  --main-color: #8bf237;
+  --second-color: #307470;
+  --text-color: #999797;
+  --footer-color: #385170;
+}
+
+/* Dark theme */
+.dark {
+  --bg-color: #1a1a26;
+  /*--main-color: #36A1D4;
+    --second-color: #F6BA6F;*/
+  --main-color: #0c712e;
+  --second-color: #307470;
+  --text-color: #999797;
+  --footer-color: #385170;
+}
